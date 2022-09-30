@@ -4,10 +4,18 @@
 
 ### Desenvolvimento Web Frontend ✨
 
+<br>
+
 Proposto pelo curso DevQuest, o desafio de reproduzir o card de nft do Frontend Mentor foi muito interessante para colocar em prática os conhecimentos de HTML e CSS que 
 venho estudando, como a estrutura semântica e posicionamentos.
 
 O card tem efeitos de hover, links e imagens.
+
+<br>
+
+<img src="./desafio-resolvido/src/images/gif-card.gif">
+
+<br>
 
 ### Tecnologias utilizadas 📌
 <div style="display: inline_block"><br>
@@ -16,6 +24,8 @@ O card tem efeitos de hover, links e imagens.
   <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" title="Vs Code"alt="Vs Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
+
+<br>
 
 ### Acesso ao projeto original 📁
 
